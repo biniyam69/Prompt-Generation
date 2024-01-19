@@ -1,0 +1,57 @@
+Job Description: AI/ML Engineer – Computer Vision Specialist
+
+
+Join the NextSapien Team: Embark on an inspiring journey with NextSapien, where AI and computer vision go beyond theory to become fundamental tools for technological transformation. We're in search of individuals who are not only technically proficient but also passionate about pushing the boundaries of AI/ML.
+
+Position Overview: This role involves enhancing a Python-based YOLO script focused on advanced human face detection. Your challenge is to broaden its scope, incorporating feature enhancement and cutting-edge developments in computer vision.
+
+Assignment:
+Gender Identification and Face Rating:
+Employ models like Ageitgey's, IMDB-WIKI, or Adience for gender identification, or select an alternative that aligns with the project's goals.
+Rate faces on a 1-10 scale with a goal of 90% accuracy.
+Accuracy will be validated by our developers using our selected image set.
+Evaluation Nodes: Facial Symmetry, Skin Texture, Facial Proportions, Expression Analysis, Eye Clarity.
+Timeframe: <2 hours (Initial, unpaid task).
+Age and Height Estimation:
+Determine age and approximate height from facial features with a 70% accuracy objective.
+Accuracy will be validated by our developers using our selected image set.
+Assessment Nodes: Wrinkle Depth, Facial Volume, Hair Color Graying, Posture Analysis, Bone Structure.
+Estimated Completion: 5-10 hours (Compensated upon successful completion).
+Comprehensive Feature Detection:
+Further develop the script to assess additional attributes, essential for the project's scope.
+Attain at least a 50% success rate in this challenging yet rewarding phase.
+Accuracy will be validated by our developers using our selected image set.
+Detection Nodes: Ethnicity Analysis, Body Feature Recognition (e.g., Rack), and other specified attributes to be disclosed at this stage.
+Estimated completion: 40+ hours (Compensated task).
+Securing the Position:
+Successful completion of the above tasks with the required accuracy will result in a formal offer to join NextSapien as a full-time AI/ML Engineer. It’s gonna be a full-time role.
+Ongoing Duties:
+Collaborate on integrating third-party models and libraries.
+Elevate script precision and processing speed.
+Stay abreast of the latest computer vision and AI breakthroughs.
+Enrich our team's knowledge base and operational practices.
+Candidate Profile:
+A strong foundation in AI, computer vision, and machine learning.
+Proficiency in Python, OpenCV, TensorFlow, and related technologies.
+Experience with YOLO and advanced face detection models.
+Deep understanding of neural networks, deep learning, and evaluation techniques.
+Independent work ethic with effective team collaboration skills.
+Exceptional problem-solving ability and a commitment to lifelong learning.
+
+
+Take the first step towards an exhilarating career by accessing the script here: Google Drive Link
+
+
+
+NextSapien awaits your expertise. Step into a future where your work propels the boundaries of AI and transforms the technological landscape. Apply today!
+
+
+Please send your assignment to the email address of the recruiter:
+
+
+Recruiter							
+Akira Mia: akira@nextsapien.com	
+
+
+
+
