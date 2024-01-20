@@ -12,7 +12,7 @@ env_manager = get_env_manager()
 client = OpenAI(api_key=env_manager['openai_keys']['OPENAI_API_KEY'])
 
 
-def evaluate(prompt: str, user_message: str, context: str, use_test_data: bool = False) -> str:
+def evaluate(prompt, user_message, context, use_test_data = False):
     """Return the classification of the hallucination.
     @parameter prompt: the prompt to be completed.
     @parameter user_message: the user message to be classified.
